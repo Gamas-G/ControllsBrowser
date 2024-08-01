@@ -1,0 +1,14 @@
+C:\Users\kukul\source\repos\browserManagment\browserManagment\bin\Debug\browserManagment.exe.config
+C:\Users\kukul\source\repos\browserManagment\browserManagment\bin\Debug\browserManagment.exe
+C:\Users\kukul\source\repos\browserManagment\browserManagment\bin\Debug\browserManagment.pdb
+C:\Users\kukul\source\repos\browserManagment\browserManagment\obj\Debug\browserManagment.csproj.AssemblyReference.cache
+C:\Users\kukul\source\repos\browserManagment\browserManagment\obj\Debug\browserManagment.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\browserManagment\browserManagment\obj\Debug\browserManagment.exe
+C:\Users\kukul\source\repos\browserManagment\browserManagment\obj\Debug\browserManagment.pdb
+C:\Users\kukul\source\repos\Consola\browserManagment\browserManagment\bin\Debug\browserManagment.exe.config
+C:\Users\kukul\source\repos\Consola\browserManagment\browserManagment\bin\Debug\browserManagment.exe
+C:\Users\kukul\source\repos\Consola\browserManagment\browserManagment\bin\Debug\browserManagment.pdb
+C:\Users\kukul\source\repos\Consola\browserManagment\browserManagment\obj\Debug\browserManagment.csproj.AssemblyReference.cache
+C:\Users\kukul\source\repos\Consola\browserManagment\browserManagment\obj\Debug\browserManagment.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\Consola\browserManagment\browserManagment\obj\Debug\browserManagment.exe
+C:\Users\kukul\source\repos\Consola\browserManagment\browserManagment\obj\Debug\browserManagment.pdb
